@@ -12,17 +12,7 @@ keywords:
   - The Best API Gateway
   - Apache APISIX
 description: Why is Apache APISIX the best API Gateway? We will compare multiple API gateways (Kong, Tyk, Gloo) in terms of the popularity among developers, open source licenses, performances, and the ecosystem as a whole.
-tags:
-  [
-    Technology,
-    Products,
-    Case Studies,
-    Ecosystem,
-    Authentication,
-    Plugins,
-    Community,
-    Vulnerabilities,
-  ]
+tags: [Community]
 image: https://static.apiseven.com/2022/11/05/6365f2b8be5a7.png
 ---
 
